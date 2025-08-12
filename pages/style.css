@@ -1,0 +1,40 @@
+body {
+  background-color: #fff;
+  color: #333;
+}
+img {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+}
+header {
+  display: flex;
+  flex-direction: row-reverse;
+  gap: 16px;
+  justify-content: space-between;
+  align-items: center;
+}
+#titulo {
+  font-size: 20px;
+}
+.body {
+  padding: 6px;
+  font-family: system-ui;
+}
+
+section {
+  background-color: #333;
+  margin-bottom: 8px 0;
+  box-shadow: 0 0 4px #333;
+  border-radius: 4px;
+  color: aliceblue;
+}
+.titulos-secciones {
+  background-color: #333;
+  border-radius: 2px;
+  padding: 4px;
+  margin-bottom: 10px;
+}
+.sl {
+  background-color: #444;
+}
